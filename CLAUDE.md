@@ -1,8 +1,8 @@
 # Reading List Logic Port
 
-Port the logic of the Reading List from TypeScript to Java. Read `README.md` and `SPEC.md` before you do anything.
+Port the logic of the Reading List from TypeScript to Rust. Read `README.md` and `SPEC.md` before you do anything.
 
-I work **only** in the folder `java`. The folder `typescript` is the reference and read-only. The file `fixtures/cases.json` is shared by all languages and read-only.
+I work **only** in the folder `rust`. The folder `typescript` is the reference and read-only. The file `fixtures/cases.json` is shared by all languages and read-only.
 
 ## Commands
 
